@@ -1,0 +1,21 @@
+{
+    "clowns": [
+        {"id": 1, "name": "Buttons"},
+        {"id": 2, "name": "Lollipop"}
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "parent": "Tabatha",
+            "child": "James",
+            "address": "P. Sherman, 42 Wallaby Way"
+        }
+    ],
+    "reservations": [
+        {"id": 1, 
+        "partyDate": "2/5/2022",
+        "partyHours": 2,
+        "customerId": 1,
+        "clownId": 2}
+    ]
+}

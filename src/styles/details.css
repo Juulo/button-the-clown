@@ -1,0 +1,20 @@
+.field {
+    flex-direction: column;
+}
+
+.label {
+    font-size: 1.2rem;
+}
+
+.input {
+    width: 90%;
+    display: flex;
+}
+
+#submitReservation {
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+    background-color: rgb(60, 176, 223);
+    color: white;
+    padding: 0.5rem;
+}
